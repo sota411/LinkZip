@@ -1,0 +1,11 @@
+{
+    "name": "linkzip",
+    "main": "src/index.tsx",
+    "compatibility_date": "2026-07-01",
+    "vars": {
+        "APP_ORIGIN": "https://lz.sota411.me"
+    },
+    "observability": {
+        "enabled": true
+    }
+}
