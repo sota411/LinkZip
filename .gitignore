@@ -3,3 +3,6 @@ node_modules/
 dist/
 .dev.vars
 .env
+AGENTS.md
+CLAUDE.md
+planning.md
